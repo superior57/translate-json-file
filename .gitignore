@@ -1,7 +1,4 @@
 /node_modules
 
-/original/*
-/result/*
-
 yarn.lock
 package-lock.json
